@@ -1,3 +1,5 @@
+//DATA QUERIES
+
 import { sql } from '@vercel/postgres';
 import {
   CustomerField,
